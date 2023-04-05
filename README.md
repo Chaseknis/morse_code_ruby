@@ -36,7 +36,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Accepting morse code as a string and returning a string of english words.
+- Accepting morse code as a string and returning a string of words.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
